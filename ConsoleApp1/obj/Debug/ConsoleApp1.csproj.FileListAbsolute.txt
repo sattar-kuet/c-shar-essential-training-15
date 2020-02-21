@@ -1,0 +1,6 @@
+F:\C#\dateAndTime\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\C#\dateAndTime\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\C#\dateAndTime\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\C#\dateAndTime\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\C#\dateAndTime\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\C#\dateAndTime\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
